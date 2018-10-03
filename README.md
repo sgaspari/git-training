@@ -5,3 +5,6 @@ tout comme
 * boire une biere
 * jouer au baby
 * ;-)
+
+
+Quite true !
