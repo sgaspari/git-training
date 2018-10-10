@@ -5,6 +5,7 @@ tout comme
 * boire une biere
 * jouer au baby
 * playing tennis
+* reading books
 * ;-)
 
 
