@@ -7,7 +7,7 @@ tout comme
 * playing tennis
 * reading books
 * athletics
-* oldschool BMX
+* BMX
 * ;-)
 
 
