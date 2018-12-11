@@ -6,6 +6,7 @@ tout comme
 * jouer au baby
 * playing tennis
 * reading books
+* athletics
 * ;-)
 
 
