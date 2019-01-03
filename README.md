@@ -8,6 +8,7 @@ tout comme
 * reading books
 * athletics
 * BMX
+* shooting photos
 * ;-)
 
 
